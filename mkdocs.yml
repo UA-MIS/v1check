@@ -1,0 +1,10 @@
+# TechDocs config — The Process builds these docs from this repo (techdocs-ref: dir:.)
+# and serves them in the catalog's Docs tab.
+site_name: 'v1check'
+site_description: 'A UA-MIS capstone project.'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
