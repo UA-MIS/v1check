@@ -38,7 +38,7 @@ labels:
 images:
   - name: v1check
     newName: harbor.capstone.uamishub.com/v1check/v1check
-    newTag: 329c707
+    newTag: bce2808
 replicas:
   - name: v1check
     count: 1
